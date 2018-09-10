@@ -32,7 +32,7 @@ You should be able to convert the voters' *feels* into a set of ballots, and sco
 
 In your simulation, it should be possible to run the same election multiple times using different voting/counting methods.
 
-All in all, every version of this project shoule implement these common features:
+All in all, every version of this project should implement these common features:
 
 - Voters and Candidates having different **political positions** on a variety of different (but probably not totally independent) **issues**
 - Measuring how far from their ideal each voter thinks a candidate is
@@ -91,7 +91,7 @@ A particularly snarky way to do this might be to have certain issues that are no
 
 P.S.
 
-Just wanted to remind you that by trying to simulate people's opinions, desires, and general happiness with the world they live in, you're inevitably going to have to make some opinionated claims concerning your personal views on human nature...
+Just wanted to remind you that by writing your own rules to simulate a person's opinions, desires, and general happiness with the world they live in, you're inevitably making some sort of opinionated statement that tells everyone your personal views on human nature...
 
 No pressure tho! :)
 
