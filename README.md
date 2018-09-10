@@ -10,7 +10,7 @@ Challenge yourself! Pick a language you don't know a lot about, or have always b
 
 ## The Simulation
 
-It's an election year. Your simulation needs model a population of voters, who need to elect a one out of several candidates to the high office of **Politician.*** Each voter and candidate has some set of political positions, and the voters need to score the candidates based on how close they feel the candidates' positions are to their own.
+It's an election year. Your simulation needs model a population of voters, who need to elect a one out of several candidates to the high office of ***Politician.*** Each voter and candidate has some set of political positions, and the voters need to score the candidates based on how close they feel the candidates' positions are to their own.
 
 You should be able to convert the voters' *feels* into a set of ballots, and score the ballots to pick a winning candidate. However, there's more than one way to score an election.<sup>[[1][2]][[2][3]]</sup> To name a few:
 
@@ -41,6 +41,7 @@ Some interesting stretch goals that you might want to consider:
   - Maybe if her term goes well it will serve to normalize her more fringe positions; or if she presides over dark times, maybe she'll alienate people from her more centrist ones
 - Having discrepencies between what voters **think** a candidate's positions are vs. what they actually are
   - If what you see is not what you get, then figuring out how "happy" a voter is with a candidate's term can be a bit trickier than measuring who she'd be most likely want to vote for.
+- Implement corrupt electoral financing, gerrymandering, or some other tactic for voter disenfranchisement, so that candidates who end up in power can connive and cheat the system to stay in power. Do some electoral systems handle unfair play better than others?
 - Whatever else you can think of! Get creative, yo!
 
 <hr/>
